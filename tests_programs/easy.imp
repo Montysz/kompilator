@@ -1,0 +1,9 @@
+VAR
+    a,b
+BEGIN
+    a ASSIGN 5666;
+    b ASSIGN 3333;
+     
+    b ASSIGN 1 TIMES 1;
+    WRITE b;
+END
